@@ -1,5 +1,7 @@
 # cat-vs-dog-prediction-cnn
 
+prediction.py is gui based file run on local system made with using tinker
+
 Upddate Kaggle Notebook here - https://www.kaggle.com/harshshinde8/cat-vs-dog-prediction-cnn
 
 Get Dataset Here - https://www.kaggle.com/datasets/vishallazrus/cat-vs-dog-image-classification-making-prediction
