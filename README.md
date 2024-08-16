@@ -1,7 +1,3 @@
-Here's an updated README based on your instructions:
-
----
-
 # Cat vs. Dog Prediction CNN
 
 ## Overview
